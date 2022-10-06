@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aritra Ghosh 
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning New programming language 
+- 💞️ I’m looking to collaborate on Software development 
+- 📫 How to reach me aritra4456@gmail.com
