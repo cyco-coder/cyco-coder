@@ -10,4 +10,4 @@
 ![Untitled_design-removebg-preview](https://user-images.githubusercontent.com/104589382/196363304-fb22db09-9ba4-4638-b0e1-5116a1842f5b.png)
 
 # Social Media
-![Untitled_design-removebg-preview](https://user-images.githubusercontent.com/104589382/196366413-4a52eac4-9614-40a6-9f04-3fc44d9b3ef4.png)
+![Untitled_design__1_-removebg-preview](https://user-images.githubusercontent.com/104589382/196366887-f34241bd-faba-48bd-8d70-7475564af812.png)
