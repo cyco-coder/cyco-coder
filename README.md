@@ -8,8 +8,3 @@
 
 # Skills
 ![Untitled_design-removebg-preview](https://user-images.githubusercontent.com/104589382/196363304-fb22db09-9ba4-4638-b0e1-5116a1842f5b.png)
-
-#you
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
