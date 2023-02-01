@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning New programming language 
 - 🤝 I'm Developer at Elite Studio - <a href="https://elitestudioo.weebly.com/" target="_blank">Website</a>
 - 📫 How to reach me aritra4456@gmail.com
-- 💻 Progarmming Language - Java(Mid-Level), Pyhton(Beginner), HTML(Junior).
+- 💻 Progarmming Language - Java(Mid-Level), Pyhton(Beginner), HTML(Mid-Level), PHP(Beginner).
 # Skills
 ![Untitled_design-removebg-preview](https://user-images.githubusercontent.com/104589382/196363304-fb22db09-9ba4-4638-b0e1-5116a1842f5b.png)
 # Social Media
