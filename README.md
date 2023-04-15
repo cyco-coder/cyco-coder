@@ -8,4 +8,4 @@
 # Skills
 ![Untitled_design-removebg-preview](https://user-images.githubusercontent.com/104589382/196363304-fb22db09-9ba4-4638-b0e1-5116a1842f5b.png)
 # Social Media
-![Untitled_design__1_-removebg-preview](https://user-images.githubusercontent.com/104589382/196367052-366c613e-e848-4fe5-a969-e0a30b03e038.png)
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCyco_Programmer
