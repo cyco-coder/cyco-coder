@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
- 
+ ![](https://komarev.com/ghpvc/?username=your-github-cyco-programmer)
+  
   # Github Stats
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyco-programmer)](https://git.io/streak-stats)
