@@ -17,5 +17,3 @@
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCyco_Programmer">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyco-programmer)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-cyco-programmer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
