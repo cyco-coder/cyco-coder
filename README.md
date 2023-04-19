@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning New programming language and exploring Web3
 - 🤝 I'm Developer at Elite Studio - <a href="https://elitestudioo.weebly.com/" target="_blank">Website</a>
 - 📫 How to reach me aritra4456@gmail.com
-- 💻 Progarmming Language - Java(Mid-Level), Python(Beginner), HTML(Mid-Level), PHP(Beginner).
 # Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
