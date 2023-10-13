@@ -1,9 +1,9 @@
 # About Me!
 - 👋 Hi, I’m Aritra Ghosh 16 years old.
-- 👀 I’m interested in Progarmming and Software Development
-- 🌱 I’m currently learning New programming language and exploring Web3
-- 🤝 I'm Developer at Elite Studio - <a href="https://elitestudioo.weebly.com/" target="_blank">Website</a>
-- 📫 How to reach me aritra4456@gmail.com
+- 👀 I’m interested in programming and Software Development
+- 🌱 I’m currently learning a new programming language and exploring Web3
+- 🤝 I'm building Elite Studio - <a href="https://elitestudioo.weebly.com/" target="_blank">Website</a>
+- 📫 How to reach me --> aritra4456@gmail.com
 # Skills
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&ensp;
