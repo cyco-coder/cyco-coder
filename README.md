@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming and Software Development
 - 🌱 I’m currently learning a new programming language and exploring Web3
 - 🤝 I'm building Elite Studio - <a href="https://elitestudioo.weebly.com/" target="_blank">Website</a>
-- 📫 How to reach me --> aritra4456@gmail.com
+- 📫 How to reach me --> reachout.ag@gmail.com
 # Skills
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&ensp;
