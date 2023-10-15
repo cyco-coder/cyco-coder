@@ -5,7 +5,7 @@
 - 🤝 I'm building Elite Studio - <a href="https://elitestudioo.weebly.com/" target="_blank">Website</a>
 - 📫 How to reach me --> reachout.ag@gmail.com
   <p align="right">
-   <img src="https://media3.giphy.com/media/Sk3KytuxDQJQ4/giphy.gif?cid=6c09b95283eihoot3e3n8yq0aidrecqx1l09wb5u98c7hlsg&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="150">
+   <img src="https://media3.giphy.com/media/Sk3KytuxDQJQ4/giphy.gif?cid=6c09b95283eihoot3e3n8yq0aidrecqx1l09wb5u98c7hlsg&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="300">
 # Skills
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&ensp;
