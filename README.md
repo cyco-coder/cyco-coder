@@ -3,9 +3,9 @@
 
 My name is Aritra Ghosh, and I am a professional software developer specializing in AI and Machine Learning. I am currently based in Kolkata, India. It is my pleasure to introduce myself to you. 
 
-Best regards,
-
       print('Programmer | AI & Ml Nerd')
+
+Best regards,
 
 - 📫 How to reach me --> reachout.ag@gmail.com
 
