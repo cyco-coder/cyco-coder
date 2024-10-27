@@ -22,10 +22,7 @@ Best regards,
  
   # Social Media
 <a href="https://x.com/aritraghoshxyz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&ensp;
-  <a href="www.linkedin.com/in/
-aritraghoshxyz
-
-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&ensp;
+  <a href="www.linkedin.com/in/aritraghoshxyz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&ensp;
 
   # Github Stats
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyco-programmer)](https://git.io/streak-stats)
